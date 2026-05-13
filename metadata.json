@@ -1,0 +1,6 @@
+{
+  "name": "Brick Breaker Pro",
+  "description": "A polished, arcade-style Brick Breaker game featuring smooth canvas rendering, physics-based movement, and multiple levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
